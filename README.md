@@ -47,3 +47,6 @@ The project performs sentiment analysis to classify reviews as positive or negat
 Data cleaning and preprocessing using regular expressions and NLTK.
 Feature extraction using CountVectorizer.
 Model training and evaluation using a Random Forest Classifier.
+
+Here the  explanation of the above code,
+https://1drv.ms/v/c/46e17f20539c6739/EeY4S155aZNNvP4PBZVyi1gBbeyCd4Xof-J8UaN5AIlbhg?e=RmFH4y
