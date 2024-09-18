@@ -3,10 +3,15 @@ This project involves analyzing Amazon reviews for Alexa products using various 
 
 # Table of Contents
 Project Overview
+
 Dataset
+
 Project Structure
+
 Installation
+
 Usage
+
 Results
 
 # Project Overview
